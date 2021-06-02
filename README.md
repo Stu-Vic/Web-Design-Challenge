@@ -1,7 +1,3 @@
-https://stu-vic.github.io/Web-Design-Challenge/
-
-
-
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
